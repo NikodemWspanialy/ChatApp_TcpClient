@@ -1,0 +1,5 @@
+List of Function's codes
+-------------------------
+1 - client connection
+2 - client disconnection
+3 - massage for all clients, conneted to the server
